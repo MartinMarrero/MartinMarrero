@@ -1,6 +1,5 @@
 # Grado en Ingeniería Informática (Curso 24/25)
-## Procesadores de Lenguajes
-![Logo de la asignatura](img/logo_asignatura.png)
+## Sobre mí
 
 ---
 
@@ -51,6 +50,6 @@ Puedes encontrarme en:
  
 |     Sitio de contacto     | Enlace al sitio                                                                                                   |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| Campus virtual            | [<img src="img/logo_ull.png" width="32">](https://www.linkedin.com/in/XXXX-WWW-WWW-7959b22b7/)              |
-| GitHub                    | [<img src="img/github.png" width="32">](https://github.com/MartinMarrero)                                               |
+| Campus virtual            | [<img src="logo_ull.png" width="32">](https://www.linkedin.com/in/XXXX-WWW-WWW-7959b22b7/)              |
+| GitHub                    | [<img src="github.png" width="32">](https://github.com/MartinMarrero)                                               |
 
